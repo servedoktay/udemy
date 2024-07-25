@@ -1,0 +1,10 @@
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\7. Maskedtextbox - Picturebox - Datetimepicker Kullanımları\obj\Debug\7. Maskedtextbox - Picturebox - Datetimepicker Kullanımları.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\7. Maskedtextbox - Picturebox - Datetimepicker Kullanımları\obj\Debug\_7.Maskedtextbox___Picturebox___Datetimepicker_Kullanımları.Form1.resources
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\7. Maskedtextbox - Picturebox - Datetimepicker Kullanımları\obj\Debug\_7.Maskedtextbox___Picturebox___Datetimepicker_Kullanımları.Properties.Resources.resources
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\7. Maskedtextbox - Picturebox - Datetimepicker Kullanımları\obj\Debug\7. Maskedtextbox - Picturebox - Datetimepicker Kullanımları.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\7. Maskedtextbox - Picturebox - Datetimepicker Kullanımları\obj\Debug\7. Maskedtextbox - Picturebox - Datetimepicker Kullanımları.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\7. Maskedtextbox - Picturebox - Datetimepicker Kullanımları\bin\Debug\_7.Maskedtextbox___Picturebox___Datetimepicker_Kullanımları.exe.config
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\7. Maskedtextbox - Picturebox - Datetimepicker Kullanımları\bin\Debug\_7.Maskedtextbox___Picturebox___Datetimepicker_Kullanımları.exe
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\7. Maskedtextbox - Picturebox - Datetimepicker Kullanımları\bin\Debug\_7.Maskedtextbox___Picturebox___Datetimepicker_Kullanımları.pdb
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\7. Maskedtextbox - Picturebox - Datetimepicker Kullanımları\obj\Debug\_7.Maskedtextbox___Picturebox___Datetimepicker_Kullanımları.exe
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\7. Maskedtextbox - Picturebox - Datetimepicker Kullanımları\obj\Debug\_7.Maskedtextbox___Picturebox___Datetimepicker_Kullanımları.pdb

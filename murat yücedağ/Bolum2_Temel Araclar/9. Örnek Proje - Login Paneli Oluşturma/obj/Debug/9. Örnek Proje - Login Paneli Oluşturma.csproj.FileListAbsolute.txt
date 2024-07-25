@@ -1,0 +1,10 @@
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\9. Örnek Proje - Login Paneli Oluşturma\bin\Debug\_9.Örnek_Proje___Login_Paneli_Oluşturma.exe.config
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\9. Örnek Proje - Login Paneli Oluşturma\bin\Debug\_9.Örnek_Proje___Login_Paneli_Oluşturma.exe
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\9. Örnek Proje - Login Paneli Oluşturma\bin\Debug\_9.Örnek_Proje___Login_Paneli_Oluşturma.pdb
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\9. Örnek Proje - Login Paneli Oluşturma\obj\Debug\9. Örnek Proje - Login Paneli Oluşturma.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\9. Örnek Proje - Login Paneli Oluşturma\obj\Debug\_9.Örnek_Proje___Login_Paneli_Oluşturma.Form1.resources
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\9. Örnek Proje - Login Paneli Oluşturma\obj\Debug\_9.Örnek_Proje___Login_Paneli_Oluşturma.Properties.Resources.resources
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\9. Örnek Proje - Login Paneli Oluşturma\obj\Debug\9. Örnek Proje - Login Paneli Oluşturma.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\9. Örnek Proje - Login Paneli Oluşturma\obj\Debug\9. Örnek Proje - Login Paneli Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\9. Örnek Proje - Login Paneli Oluşturma\obj\Debug\_9.Örnek_Proje___Login_Paneli_Oluşturma.exe
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\9. Örnek Proje - Login Paneli Oluşturma\obj\Debug\_9.Örnek_Proje___Login_Paneli_Oluşturma.pdb

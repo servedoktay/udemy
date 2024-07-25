@@ -1,0 +1,10 @@
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\10. Örnek Proje - Uçak Bilet Rezervasyon Sistemi\bin\Debug\_10.Örnek_Proje___Uçak_Bilet_Rezervasyon_Sistemi.exe.config
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\10. Örnek Proje - Uçak Bilet Rezervasyon Sistemi\bin\Debug\_10.Örnek_Proje___Uçak_Bilet_Rezervasyon_Sistemi.exe
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\10. Örnek Proje - Uçak Bilet Rezervasyon Sistemi\bin\Debug\_10.Örnek_Proje___Uçak_Bilet_Rezervasyon_Sistemi.pdb
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\10. Örnek Proje - Uçak Bilet Rezervasyon Sistemi\obj\Debug\10. Örnek Proje - Uçak Bilet Rezervasyon Sistemi.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\10. Örnek Proje - Uçak Bilet Rezervasyon Sistemi\obj\Debug\_10.Örnek_Proje___Uçak_Bilet_Rezervasyon_Sistemi.Form1.resources
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\10. Örnek Proje - Uçak Bilet Rezervasyon Sistemi\obj\Debug\_10.Örnek_Proje___Uçak_Bilet_Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\10. Örnek Proje - Uçak Bilet Rezervasyon Sistemi\obj\Debug\10. Örnek Proje - Uçak Bilet Rezervasyon Sistemi.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\10. Örnek Proje - Uçak Bilet Rezervasyon Sistemi\obj\Debug\10. Örnek Proje - Uçak Bilet Rezervasyon Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\10. Örnek Proje - Uçak Bilet Rezervasyon Sistemi\obj\Debug\_10.Örnek_Proje___Uçak_Bilet_Rezervasyon_Sistemi.exe
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\10. Örnek Proje - Uçak Bilet Rezervasyon Sistemi\obj\Debug\_10.Örnek_Proje___Uçak_Bilet_Rezervasyon_Sistemi.pdb

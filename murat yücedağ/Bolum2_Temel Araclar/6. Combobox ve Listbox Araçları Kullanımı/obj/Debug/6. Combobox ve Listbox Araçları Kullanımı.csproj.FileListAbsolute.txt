@@ -1,0 +1,10 @@
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\6. Combobox ve Listbox Araçları Kullanımı\bin\Debug\_6.Combobox_ve_Listbox_Araçları_Kullanımı.exe.config
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\6. Combobox ve Listbox Araçları Kullanımı\bin\Debug\_6.Combobox_ve_Listbox_Araçları_Kullanımı.exe
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\6. Combobox ve Listbox Araçları Kullanımı\bin\Debug\_6.Combobox_ve_Listbox_Araçları_Kullanımı.pdb
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\6. Combobox ve Listbox Araçları Kullanımı\obj\Debug\6. Combobox ve Listbox Araçları Kullanımı.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\6. Combobox ve Listbox Araçları Kullanımı\obj\Debug\_6.Combobox_ve_Listbox_Araçları_Kullanımı.Form1.resources
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\6. Combobox ve Listbox Araçları Kullanımı\obj\Debug\_6.Combobox_ve_Listbox_Araçları_Kullanımı.Properties.Resources.resources
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\6. Combobox ve Listbox Araçları Kullanımı\obj\Debug\6. Combobox ve Listbox Araçları Kullanımı.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\6. Combobox ve Listbox Araçları Kullanımı\obj\Debug\6. Combobox ve Listbox Araçları Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\6. Combobox ve Listbox Araçları Kullanımı\obj\Debug\_6.Combobox_ve_Listbox_Araçları_Kullanımı.exe
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\4. Merhaba Dünya\6. Combobox ve Listbox Araçları Kullanımı\obj\Debug\_6.Combobox_ve_Listbox_Araçları_Kullanımı.pdb

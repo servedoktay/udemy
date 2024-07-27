@@ -1,0 +1,10 @@
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\15. Int Değişkenler Pratik Örnek Aritmetik 4 İşlem\bin\Debug\_15.Int_Değişkenler_Pratik_Örnek_Aritmetik_4_İşlem.exe.config
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\15. Int Değişkenler Pratik Örnek Aritmetik 4 İşlem\bin\Debug\_15.Int_Değişkenler_Pratik_Örnek_Aritmetik_4_İşlem.exe
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\15. Int Değişkenler Pratik Örnek Aritmetik 4 İşlem\bin\Debug\_15.Int_Değişkenler_Pratik_Örnek_Aritmetik_4_İşlem.pdb
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\15. Int Değişkenler Pratik Örnek Aritmetik 4 İşlem\obj\Debug\15. Int Değişkenler Pratik Örnek Aritmetik 4 İşlem.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\15. Int Değişkenler Pratik Örnek Aritmetik 4 İşlem\obj\Debug\_15.Int_Değişkenler_Pratik_Örnek_Aritmetik_4_İşlem.Form1.resources
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\15. Int Değişkenler Pratik Örnek Aritmetik 4 İşlem\obj\Debug\_15.Int_Değişkenler_Pratik_Örnek_Aritmetik_4_İşlem.Properties.Resources.resources
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\15. Int Değişkenler Pratik Örnek Aritmetik 4 İşlem\obj\Debug\15. Int Değişkenler Pratik Örnek Aritmetik 4 İşlem.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\15. Int Değişkenler Pratik Örnek Aritmetik 4 İşlem\obj\Debug\15. Int Değişkenler Pratik Örnek Aritmetik 4 İşlem.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\15. Int Değişkenler Pratik Örnek Aritmetik 4 İşlem\obj\Debug\_15.Int_Değişkenler_Pratik_Örnek_Aritmetik_4_İşlem.exe
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\15. Int Değişkenler Pratik Örnek Aritmetik 4 İşlem\obj\Debug\_15.Int_Değişkenler_Pratik_Örnek_Aritmetik_4_İşlem.pdb

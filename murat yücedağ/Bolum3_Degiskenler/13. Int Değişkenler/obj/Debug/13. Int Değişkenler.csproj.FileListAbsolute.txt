@@ -1,0 +1,10 @@
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\13. Int Değişkenler\bin\Debug\_13.Int_Değişkenler.exe.config
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\13. Int Değişkenler\bin\Debug\_13.Int_Değişkenler.exe
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\13. Int Değişkenler\bin\Debug\_13.Int_Değişkenler.pdb
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\13. Int Değişkenler\obj\Debug\13. Int Değişkenler.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\13. Int Değişkenler\obj\Debug\_13.Int_Değişkenler.Form1.resources
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\13. Int Değişkenler\obj\Debug\_13.Int_Değişkenler.Properties.Resources.resources
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\13. Int Değişkenler\obj\Debug\13. Int Değişkenler.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\13. Int Değişkenler\obj\Debug\13. Int Değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\13. Int Değişkenler\obj\Debug\_13.Int_Değişkenler.exe
+C:\Users\CASPER\source\repos\UDEMY\murat yücedağ\Bolum3_Degiskenler\13. Int Değişkenler\obj\Debug\_13.Int_Değişkenler.pdb

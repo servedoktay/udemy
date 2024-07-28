@@ -1,0 +1,10 @@
+C:\Users\CASPER\source\repos\23. Pratik Örnek - Alışveriş İndirim Tutar Hesaplama\bin\Debug\_23.Pratik_Örnek___Alışveriş_İndirim_Tutar_Hesaplama.exe.config
+C:\Users\CASPER\source\repos\23. Pratik Örnek - Alışveriş İndirim Tutar Hesaplama\bin\Debug\_23.Pratik_Örnek___Alışveriş_İndirim_Tutar_Hesaplama.exe
+C:\Users\CASPER\source\repos\23. Pratik Örnek - Alışveriş İndirim Tutar Hesaplama\bin\Debug\_23.Pratik_Örnek___Alışveriş_İndirim_Tutar_Hesaplama.pdb
+C:\Users\CASPER\source\repos\23. Pratik Örnek - Alışveriş İndirim Tutar Hesaplama\obj\Debug\23. Pratik Örnek - Alışveriş İndirim Tutar Hesaplama.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\23. Pratik Örnek - Alışveriş İndirim Tutar Hesaplama\obj\Debug\_23.Pratik_Örnek___Alışveriş_İndirim_Tutar_Hesaplama.Form1.resources
+C:\Users\CASPER\source\repos\23. Pratik Örnek - Alışveriş İndirim Tutar Hesaplama\obj\Debug\_23.Pratik_Örnek___Alışveriş_İndirim_Tutar_Hesaplama.Properties.Resources.resources
+C:\Users\CASPER\source\repos\23. Pratik Örnek - Alışveriş İndirim Tutar Hesaplama\obj\Debug\23. Pratik Örnek - Alışveriş İndirim Tutar Hesaplama.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\23. Pratik Örnek - Alışveriş İndirim Tutar Hesaplama\obj\Debug\23. Pratik Örnek - Alışveriş İndirim Tutar Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\23. Pratik Örnek - Alışveriş İndirim Tutar Hesaplama\obj\Debug\_23.Pratik_Örnek___Alışveriş_İndirim_Tutar_Hesaplama.exe
+C:\Users\CASPER\source\repos\23. Pratik Örnek - Alışveriş İndirim Tutar Hesaplama\obj\Debug\_23.Pratik_Örnek___Alışveriş_İndirim_Tutar_Hesaplama.pdb

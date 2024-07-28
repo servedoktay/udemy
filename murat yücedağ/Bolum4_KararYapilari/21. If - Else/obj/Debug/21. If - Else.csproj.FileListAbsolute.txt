@@ -1,0 +1,10 @@
+C:\Users\CASPER\source\repos\21. If - Else\bin\Debug\_21.If___Else.exe.config
+C:\Users\CASPER\source\repos\21. If - Else\bin\Debug\_21.If___Else.exe
+C:\Users\CASPER\source\repos\21. If - Else\bin\Debug\_21.If___Else.pdb
+C:\Users\CASPER\source\repos\21. If - Else\obj\Debug\21. If - Else.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\21. If - Else\obj\Debug\_21.If___Else.Form1.resources
+C:\Users\CASPER\source\repos\21. If - Else\obj\Debug\_21.If___Else.Properties.Resources.resources
+C:\Users\CASPER\source\repos\21. If - Else\obj\Debug\21. If - Else.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\21. If - Else\obj\Debug\21. If - Else.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\21. If - Else\obj\Debug\_21.If___Else.exe
+C:\Users\CASPER\source\repos\21. If - Else\obj\Debug\_21.If___Else.pdb

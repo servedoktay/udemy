@@ -1,0 +1,10 @@
+C:\Users\CASPER\source\repos\30. Pratik Örnek - Ardışık Sayı Toplamları\bin\Debug\_30.Pratik_Örnek___Ardışık_Sayı_Toplamları.exe.config
+C:\Users\CASPER\source\repos\30. Pratik Örnek - Ardışık Sayı Toplamları\bin\Debug\_30.Pratik_Örnek___Ardışık_Sayı_Toplamları.exe
+C:\Users\CASPER\source\repos\30. Pratik Örnek - Ardışık Sayı Toplamları\bin\Debug\_30.Pratik_Örnek___Ardışık_Sayı_Toplamları.pdb
+C:\Users\CASPER\source\repos\30. Pratik Örnek - Ardışık Sayı Toplamları\obj\Debug\30. Pratik Örnek - Ardışık Sayı Toplamları.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\30. Pratik Örnek - Ardışık Sayı Toplamları\obj\Debug\_30.Pratik_Örnek___Ardışık_Sayı_Toplamları.Form1.resources
+C:\Users\CASPER\source\repos\30. Pratik Örnek - Ardışık Sayı Toplamları\obj\Debug\_30.Pratik_Örnek___Ardışık_Sayı_Toplamları.Properties.Resources.resources
+C:\Users\CASPER\source\repos\30. Pratik Örnek - Ardışık Sayı Toplamları\obj\Debug\30. Pratik Örnek - Ardışık Sayı Toplamları.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\30. Pratik Örnek - Ardışık Sayı Toplamları\obj\Debug\30. Pratik Örnek - Ardışık Sayı Toplamları.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\30. Pratik Örnek - Ardışık Sayı Toplamları\obj\Debug\_30.Pratik_Örnek___Ardışık_Sayı_Toplamları.exe
+C:\Users\CASPER\source\repos\30. Pratik Örnek - Ardışık Sayı Toplamları\obj\Debug\_30.Pratik_Örnek___Ardışık_Sayı_Toplamları.pdb

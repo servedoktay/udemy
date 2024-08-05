@@ -1,0 +1,10 @@
+C:\Users\CASPER\source\repos\31. Karar Yapıları ile Döngü Kullanımı\bin\Debug\_31.Karar_Yapıları_ile_Döngü_Kullanımı.exe.config
+C:\Users\CASPER\source\repos\31. Karar Yapıları ile Döngü Kullanımı\bin\Debug\_31.Karar_Yapıları_ile_Döngü_Kullanımı.exe
+C:\Users\CASPER\source\repos\31. Karar Yapıları ile Döngü Kullanımı\bin\Debug\_31.Karar_Yapıları_ile_Döngü_Kullanımı.pdb
+C:\Users\CASPER\source\repos\31. Karar Yapıları ile Döngü Kullanımı\obj\Debug\31. Karar Yapıları ile Döngü Kullanımı.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\31. Karar Yapıları ile Döngü Kullanımı\obj\Debug\_31.Karar_Yapıları_ile_Döngü_Kullanımı.Form1.resources
+C:\Users\CASPER\source\repos\31. Karar Yapıları ile Döngü Kullanımı\obj\Debug\_31.Karar_Yapıları_ile_Döngü_Kullanımı.Properties.Resources.resources
+C:\Users\CASPER\source\repos\31. Karar Yapıları ile Döngü Kullanımı\obj\Debug\31. Karar Yapıları ile Döngü Kullanımı.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\31. Karar Yapıları ile Döngü Kullanımı\obj\Debug\31. Karar Yapıları ile Döngü Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\31. Karar Yapıları ile Döngü Kullanımı\obj\Debug\_31.Karar_Yapıları_ile_Döngü_Kullanımı.exe
+C:\Users\CASPER\source\repos\31. Karar Yapıları ile Döngü Kullanımı\obj\Debug\_31.Karar_Yapıları_ile_Döngü_Kullanımı.pdb

@@ -1,0 +1,10 @@
+C:\Users\CASPER\source\repos\32. While Döngüsü\bin\Debug\_32.While_Döngüsü.exe.config
+C:\Users\CASPER\source\repos\32. While Döngüsü\bin\Debug\_32.While_Döngüsü.exe
+C:\Users\CASPER\source\repos\32. While Döngüsü\bin\Debug\_32.While_Döngüsü.pdb
+C:\Users\CASPER\source\repos\32. While Döngüsü\obj\Debug\32. While Döngüsü.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\32. While Döngüsü\obj\Debug\_32.While_Döngüsü.Form1.resources
+C:\Users\CASPER\source\repos\32. While Döngüsü\obj\Debug\_32.While_Döngüsü.Properties.Resources.resources
+C:\Users\CASPER\source\repos\32. While Döngüsü\obj\Debug\32. While Döngüsü.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\32. While Döngüsü\obj\Debug\32. While Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\32. While Döngüsü\obj\Debug\_32.While_Döngüsü.exe
+C:\Users\CASPER\source\repos\32. While Döngüsü\obj\Debug\_32.While_Döngüsü.pdb

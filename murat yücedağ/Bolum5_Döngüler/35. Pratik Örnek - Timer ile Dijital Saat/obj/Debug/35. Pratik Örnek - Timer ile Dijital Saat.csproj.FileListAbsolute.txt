@@ -1,0 +1,10 @@
+C:\Users\CASPER\source\repos\35. Pratik Örnek - Timer ile Dijital Saat\bin\Debug\_35.Pratik_Örnek___Timer_ile_Dijital_Saat.exe.config
+C:\Users\CASPER\source\repos\35. Pratik Örnek - Timer ile Dijital Saat\bin\Debug\_35.Pratik_Örnek___Timer_ile_Dijital_Saat.exe
+C:\Users\CASPER\source\repos\35. Pratik Örnek - Timer ile Dijital Saat\bin\Debug\_35.Pratik_Örnek___Timer_ile_Dijital_Saat.pdb
+C:\Users\CASPER\source\repos\35. Pratik Örnek - Timer ile Dijital Saat\obj\Debug\35. Pratik Örnek - Timer ile Dijital Saat.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\35. Pratik Örnek - Timer ile Dijital Saat\obj\Debug\_35.Pratik_Örnek___Timer_ile_Dijital_Saat.Form1.resources
+C:\Users\CASPER\source\repos\35. Pratik Örnek - Timer ile Dijital Saat\obj\Debug\_35.Pratik_Örnek___Timer_ile_Dijital_Saat.Properties.Resources.resources
+C:\Users\CASPER\source\repos\35. Pratik Örnek - Timer ile Dijital Saat\obj\Debug\35. Pratik Örnek - Timer ile Dijital Saat.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\35. Pratik Örnek - Timer ile Dijital Saat\obj\Debug\35. Pratik Örnek - Timer ile Dijital Saat.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\35. Pratik Örnek - Timer ile Dijital Saat\obj\Debug\_35.Pratik_Örnek___Timer_ile_Dijital_Saat.exe
+C:\Users\CASPER\source\repos\35. Pratik Örnek - Timer ile Dijital Saat\obj\Debug\_35.Pratik_Örnek___Timer_ile_Dijital_Saat.pdb

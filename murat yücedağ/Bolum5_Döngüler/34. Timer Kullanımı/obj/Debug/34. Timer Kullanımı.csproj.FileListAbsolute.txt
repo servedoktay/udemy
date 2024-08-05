@@ -1,0 +1,10 @@
+C:\Users\CASPER\source\repos\34. Timer Kullanımı\bin\Debug\_34.Timer_Kullanımı.exe.config
+C:\Users\CASPER\source\repos\34. Timer Kullanımı\bin\Debug\_34.Timer_Kullanımı.exe
+C:\Users\CASPER\source\repos\34. Timer Kullanımı\bin\Debug\_34.Timer_Kullanımı.pdb
+C:\Users\CASPER\source\repos\34. Timer Kullanımı\obj\Debug\34. Timer Kullanımı.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\34. Timer Kullanımı\obj\Debug\_34.Timer_Kullanımı.Form1.resources
+C:\Users\CASPER\source\repos\34. Timer Kullanımı\obj\Debug\_34.Timer_Kullanımı.Properties.Resources.resources
+C:\Users\CASPER\source\repos\34. Timer Kullanımı\obj\Debug\34. Timer Kullanımı.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\34. Timer Kullanımı\obj\Debug\34. Timer Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\34. Timer Kullanımı\obj\Debug\_34.Timer_Kullanımı.exe
+C:\Users\CASPER\source\repos\34. Timer Kullanımı\obj\Debug\_34.Timer_Kullanımı.pdb
